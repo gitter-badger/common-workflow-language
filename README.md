@@ -1,6 +1,8 @@
 Common Workflow Language
 ========================
 
+[![Join the chat at https://gitter.im/curoverse/common-workflow-language](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/curoverse/common-workflow-language?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repo holds in-development draft description of the specification being developed on the
 [Common Workflow Language mailing list](https://groups.google.com/forum/#!forum/common-workflow-language).
 
